@@ -45,4 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Branch Master(template branch)
+hw1
+з апі https://dummyjson.com/docs/products копійнути руцями та вивести всі елементи зі всіма полями.
+структура компонентів наступна -
+App - Products - Product
